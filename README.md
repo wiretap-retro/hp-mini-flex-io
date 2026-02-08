@@ -28,7 +28,7 @@ This was tested on a HP EliteDesk Mini 800 G6 with the HP Flex IO 2.5GbE v2 (Int
 12. In the LANConf Menu, select "EEPROM/FLASH" and press enter.
 ![LANconf Menu](lanconf-menu.png)
 13. In the EEPROM/FLASH menu select "Flash". Ignore any engineering/experimental warnings.
-
+![Flash Menu](flash-menu.png)
 14. Open a flash file from the fs0:/I225/NVM/ folder called "FXVL_15F3_V_1MB_1.89.bin" and press enter.
 
 15. Flashing will take approximately 5 minutes and give a success message at the end.

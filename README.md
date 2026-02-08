@@ -20,7 +20,7 @@ This was tested on a HP EliteDesk Mini 800 G6 with the HP Flex IO 2.5GbE v2 (Int
 8. At the UEFI shell prompt, navigate to your storage location for the Intel Firmware files. Example: "fs0:" and press enter, then "cd I225" and press enter. Type "dir" or "ls" to view the files.
 ![UEFI Folder](uefi-folder.png)
 9. At the UEFI shell prompt, type "eeupdate64e.efi" and press enter. You should see the "Client Foxville with Empty Flash" line listed in the network adapters list. Verify it is there. If not, power off the computer and reseat the adapter. If it still doesn't show up, there is likely a physical hardware problem.
-
+![EEUPDATE Blank](eeupdate-blank.png)
 10. At the UEFI shell prompt, type "lanconf64e.efi".
 
 11. Select the i225 network adapter (likely shows as Client Foxville with Empty Flash) and press enter.

@@ -1,6 +1,6 @@
 # HP 2.5GbE Flex IO V2 Flash Procedure
 ## Flashing steps for the HP EliteDesk Mini 2.5GbE Intel I225-V (M74416 / L83414-002) V2 Flex IO adapter.
-
+![Module](module.png)
 This was tested on a HP EliteDesk Mini 800 G6 with the HP Flex IO 2.5GbE v2 (Intel I225-V, M74416 / L83414-002) adapter. The adapter came with a blank/invalid flash memory and would not be recognized under any operating system, other than having a visible hardware ID within the PCI tree. This tutorial requires no CH341A SOIC flash tool, and just requires a small USB flash drive. This method may also be adaptable to other vendors/models assuming you have the appropriate files. I know there are many issues with this NIC on other platforms.
 
 1. Create a UEFI shell boot drive: https://github.com/KilianKegel/Howto-create-a-UEFI-Shell-Boot-Drive

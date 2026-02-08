@@ -46,4 +46,4 @@ This was tested on a HP EliteDesk Mini 800 G6 with the HP Flex IO 2.5GbE v2 (Int
 21. Boot to your operating system of choice and the Intel I225-V should show up as a valid network adapter available for configuration.
 
 ## Notes
-The Intel software and firmware holds a separate software license and is proprietary in nature. The author of this tutorial makes no claim and offers no warranty. Flashing a device with new firmware can cause it to become inoperable. Proceed at your own risk. 
+The Intel software and firmware holds a separate software license and is proprietary in nature. The author of this tutorial makes no rate of success claims and offers no warranty. Flashing a device with new firmware can cause it to become inoperable. Proceed at your own risk. 
